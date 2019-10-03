@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/fact-finder-4",
+    "name": "OpenMageModuleFostering\/fact-finder-4",
     "type": "magento-module",
     "license": "OSL-3.0",
     "homepage": "",
     "description": "4.1.1 Release",
     "authors": [
-    {
-        "name": "FACTFinder",
-        "email": "info@flagbit.de"
-    }
-],
+        {
+            "name": "FACTFinder",
+            "email": "info@flagbit.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
